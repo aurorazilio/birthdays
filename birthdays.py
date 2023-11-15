@@ -1,3 +1,6 @@
+'''
+ Here we comment the module!
+'''
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
